@@ -1,0 +1,32 @@
+@font-face{
+	font-family:'HPSimplified123';
+	src: url('https://123hpcomonline.com/resources/assets/fonts/HPSimplified.woff') format('woff');
+	font-weight:normal;
+	font-style:normal;
+	unicode-range: U+0020-052F;
+}
+
+@font-face{
+	font-family:'HPSimplifiedLight123';
+	src: url('https://123hpcomonline.com/resources/assets/fonts/HPSimplifiedLight.woff') format('woff');
+	font-weight:normal;
+	font-style:normal;
+	unicode-range: U+0020-052F;
+}
+
+@font-face{
+	font-family:'HPSimplified123';
+	src: url('https://123hpcomonline.com/resources/assets/fonts/HPSimplifiedME_Rg.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+	unicode-range: U+0590-06FF; 
+}
+
+@font-face{
+	font-family:'HPSimplifiedLight123';
+	src: url('https://123hpcomonline.com/resources/assets/fonts/HPSimplifiedME_Lt.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+	unicode-range: U+0590-06FF;
+	
+}
